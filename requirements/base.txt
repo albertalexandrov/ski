@@ -1,0 +1,4 @@
+httpx==0.16.1
+fastapi==0.63.0
+pyyaml==5.4.1
+uvicorn==0.13.4

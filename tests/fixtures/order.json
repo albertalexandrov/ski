@@ -1,0 +1,156 @@
+{
+  "ancillariesPricings": [
+    {
+      "airId": "ef8ff876-9b29-448f-97ba-094898deef98",
+      "baggagePricings": [
+        {
+          "passengerIds": [
+            "dKCLeweYNb6iDO66",
+            "qauJTpuMlDrASaty"
+          ],
+          "passengerTypes": [
+            "ADT"
+          ],
+          "purchaseType": "PAID",
+          "routeId": "RyucZ4TVI1EseYCp",
+          "baggages": [
+            {
+              "id": "nqNNipOwlK7i9fRr",
+              "overWeight": true,
+              "amount": 1,
+              "unit": "KG",
+              "weight": {
+                "amount": 50,
+                "unit": "KG"
+              },
+              "code": "0IK",
+              "descriptions": [
+                "EXCESS WEIGHT"
+              ],
+              "registered": false
+            },
+            {
+              "id": "q0YIbjcv2zSx4JGK",
+              "overWeight": false,
+              "amount": 1,
+              "unit": "PC",
+              "weight": {
+                "amount": 23,
+                "unit": "KG"
+              },
+              "code": "0CC",
+              "descriptions": [
+                "CHECKED BAG FIRST"
+              ],
+              "registered": false
+            },
+            {
+              "id": "KChsLeEHhHqEvGmw",
+              "overWeight": false,
+              "amount": 2,
+              "unit": "PC",
+              "weight": {
+                "amount": 23,
+                "unit": "KG"
+              },
+              "code": "0CD",
+              "descriptions": [
+                "CHECKED BAG SECOND"
+              ],
+              "registered": false
+            },
+            {
+              "id": "siEct88JoxGWpe5v",
+              "overWeight": false,
+              "amount": 1,
+              "unit": "PC",
+              "code": "0DD",
+              "descriptions": [
+                "SNOW SKI SNOWBOARD EQUIPMENT"
+              ],
+              "registered": false,
+              "equipmentType": "ski"
+            }
+          ]
+        },
+        {
+          "passengerIds": [
+            "dKCLeweYNb6iDO66",
+            "qauJTpuMlDrASaty"
+          ],
+          "passengerTypes": [
+            "ADT"
+          ],
+          "purchaseType": "PAID",
+          "routeId": "iqCrFYw8oDTwVpWD",
+          "baggages": [
+            {
+              "id": "xawp8dUZHYaJqmVS",
+              "overWeight": true,
+              "amount": 1,
+              "unit": "KG",
+              "weight": {
+                "amount": 50,
+                "unit": "KG"
+              },
+              "code": "0IK",
+              "descriptions": [
+                "EXCESS WEIGHT"
+              ],
+              "registered": false
+            },
+            {
+              "id": "AzD5GiHPkxVruI3B",
+              "overWeight": false,
+              "amount": 1,
+              "unit": "PC",
+              "weight": {
+                "amount": 23,
+                "unit": "KG"
+              },
+              "code": "0CC",
+              "descriptions": [
+                "CHECKED BAG FIRST"
+              ],
+              "registered": false
+            },
+            {
+              "id": "7UPUB3KhGSI12ZXF",
+              "overWeight": false,
+              "amount": 2,
+              "unit": "PC",
+              "weight": {
+                "amount": 23,
+                "unit": "KG"
+              },
+              "code": "0CD",
+              "descriptions": [
+                "CHECKED BAG SECOND"
+              ],
+              "registered": false
+            },
+            {
+              "id": "CMQs0BgMVGpAJcOP",
+              "overWeight": false,
+              "amount": 1,
+              "unit": "PC",
+              "code": "0DD",
+              "descriptions": [
+                "SNOW SKI SNOWBOARD EQUIPMENT"
+              ],
+              "registered": false,
+              "equipmentType": "ski"
+            }
+          ]
+        }
+      ],
+      "baggageDisabled": false,
+      "seatsDisabled": false,
+      "mealsDisabled": false,
+      "upgradesDisabled": true,
+      "loungesDisabled": false,
+      "fastTracksDisabled": false,
+      "petsDisabled": true
+    }
+  ]
+}

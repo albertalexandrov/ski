@@ -1,0 +1,36 @@
+{
+  "baggageSelections": [
+    {
+      "passengerId": "dKCLeweYNb6iDO66",
+      "routeId": "RyucZ4TVI1EseYCp",
+      "baggageIds": [
+        "siEct88JoxGWpe5v"
+      ],
+      "redemption": false
+    },
+    {
+      "passengerId": "dKCLeweYNb6iDO66",
+      "routeId": "iqCrFYw8oDTwVpWD",
+      "baggageIds": [
+        "CMQs0BgMVGpAJcOP"
+      ],
+      "redemption": false
+    },
+    {
+      "passengerId": "qauJTpuMlDrASaty",
+      "routeId": "RyucZ4TVI1EseYCp",
+      "baggageIds": [
+        "siEct88JoxGWpe5v"
+      ],
+      "redemption": false
+    },
+    {
+      "passengerId": "qauJTpuMlDrASaty",
+      "routeId": "iqCrFYw8oDTwVpWD",
+      "baggageIds": [
+        "CMQs0BgMVGpAJcOP"
+      ],
+      "redemption": false
+    }
+  ]
+}
