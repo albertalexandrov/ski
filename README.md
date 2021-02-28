@@ -17,7 +17,7 @@
 
 `docker run -d -p 8000:8000 -v <folder-with-configs>/configs.yml:/usr/app/configs.yml --name ski <image-name>`
 
-где <folder-with-configs> - путь до папки, в которой лежит файл configs.yml с конфигами сервиса. 
+где `<folder-with-configs>` - путь до папки, в которой лежит файл `configs.yml` с конфигами сервиса. 
 Пример конфигурационного файла можно посмотреть в файле [configs.example.yml](configs.example.yml).
 
 Сервис будет доступен по адресу `0.0.0.0:8000`.
